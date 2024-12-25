@@ -23,6 +23,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 # PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -159,6 +160,7 @@ Publish the website in the LocalHost.
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+```
 # OUTPUT:
 ![Screenshot 2024-12-24 221400](https://github.com/user-attachments/assets/0a8e3a24-6c7c-4143-a270-ce2d788fa9d7)
 ![Screenshot 2024-12-24 221439](https://github.com/user-attachments/assets/3c8c3540-159a-4433-9f13-818e8f49942d)
